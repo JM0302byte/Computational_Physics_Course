@@ -18,7 +18,7 @@
     * Data Structures and Algorithms
     * Computer Architecture
     * Classical Mechanics
-    * Structure and Interpretation of CLassical Mechanics
+    * Structure and Interpretation of Classical Mechanics
     
     
 Block 2: Advanced Dynamics

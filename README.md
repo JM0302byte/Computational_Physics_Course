@@ -53,7 +53,7 @@ Block 3: Stochastics and Quantum Physics
 * Block 3B:
     * Statistical Mechanics
     * Kinetic Theory
-    * Complex Theory
+    * Complex Systems
     * Machine Learning and Applications
     * Computational Statistical Physics
     * Many-Body Physics
